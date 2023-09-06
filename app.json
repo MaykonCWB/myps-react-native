@@ -3,8 +3,9 @@
     "name": "myps",
     "slug": "myps",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
+  },
+  "android": {
+    "icon": ["mipmap-hdpi/ic_launcher.png", "mipmap-mdpi/ic_launcher.png"]
   }
 }
